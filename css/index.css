@@ -1,0 +1,29 @@
+body {
+    font-family: Micorsoft JhengHei;
+    background-image:url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+nav {
+    background-color: rgba(255,255,255,0.9);
+}
+#banner {
+    height: 50vh;
+}
+#banner>.row {
+    height: 50vh;
+}
+#content {
+    background-color: #545669;
+}
+.row .col-lg:nth-child(1) {
+    background-color: rgba(255,255,255,0.9);
+}
+.row .col-lg:nth-child(2) {
+    background-color: rgba(255,255,255,0.85);
+}
+.row .col-lg:nth-child(3) {
+    background-color: rgba(255,255,255,0.8);
+}

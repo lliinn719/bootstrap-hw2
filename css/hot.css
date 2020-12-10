@@ -1,0 +1,21 @@
+body {
+    font-family: Microsoft JhengHei;
+}
+body {
+    font-family: Micorsoft JhengHei;
+    background-image:url(../images/bg.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+nav {
+    background-color: rgba(255,255,255,0.9);
+}
+#info {
+    background-color:#edd7c2;
+}
+footer {
+    background-color: rgba(255,255,255,0.075);
+    font-weight: bold;
+}
